@@ -10,6 +10,7 @@ namespace Challenge_5
     {
         static void Main(string[] args)
         {
+            ProgramUI program = new ProgramUI();
         }
     }
 }

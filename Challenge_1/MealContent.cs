@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Challenge_1
 {
-    class Program
+    class MealContent
     {
-        static void Main(string[] args)
-        {
-            ProgramUI program = new ProgramUI();
-        }
+        public string MyProperty { get; set; }
     }
 }

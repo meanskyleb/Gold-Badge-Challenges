@@ -28,3 +28,11 @@ Jane        Smith     Past        It's been a long time since we've heard from y
 Be sure to Unit Test your Repository methods.
 
 Out of scope: Actually sending an email. We are just creating the string for the email.
+
+program
+
+programUI
+
+customer class
+
+customer repo
