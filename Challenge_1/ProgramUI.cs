@@ -11,7 +11,7 @@ namespace Challenge_1
         CafeRepository _contentCafe = new CafeRepository();
          
 
-        private void RunMainMenu()
+        public void Run()
         {
             bool isRunning = true;
             while (isRunning)

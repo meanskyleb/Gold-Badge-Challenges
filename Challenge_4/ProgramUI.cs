@@ -12,11 +12,8 @@ namespace Challenge_4
         List<string> doors = new List<string>();
         Dictionary<int, List<string>> _dict;
        
-            private void RunMainMenu()
+            public void Run()
             {
-
-            
-        
             bool isRunning = true;
             while (isRunning)
             {

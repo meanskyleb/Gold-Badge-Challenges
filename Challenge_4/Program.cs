@@ -11,7 +11,7 @@ namespace Challenge_4
         static void Main(string[] args)
         {
             ProgramUI program = new ProgramUI();
-            
+            program.Run();
         }
     }
 }

@@ -13,11 +13,6 @@ namespace Challenge_3
 
         public void Run()
         {
-            RunMainMenu();
-        }
-
-        private void RunMainMenu()
-        {
             bool isRunning = true;
             while (isRunning)
             {
